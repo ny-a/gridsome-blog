@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  pathPrefix: '/gridsome-blog',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
